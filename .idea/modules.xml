@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/ArrayQuestion/ArrayQuestion.iml" filepath="$PROJECT_DIR$/Question/ArrayQuestion/ArrayQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/Basic/Basic.iml" filepath="$PROJECT_DIR$/Question/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StriverA2Z/BasicRecurrsionQuestions/BasicRecurrsionQuestions.iml" filepath="$PROJECT_DIR$/StriverA2Z/BasicRecurrsionQuestions/BasicRecurrsionQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsAndConditions/Questions/Basics/Basics.iml" filepath="$PROJECT_DIR$/LoopsAndConditions/Questions/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitWiseOperators/BitWiseOperators.iml" filepath="$PROJECT_DIR$/BitWiseOperators/BitWiseOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSortRecursion/BubbleSortRecursion.iml" filepath="$PROJECT_DIR$/BubbleSortRecursion/BubbleSortRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternalSortingAlgorithm/InternalSortingAlgorithm.iml" filepath="$PROJECT_DIR$/InternalSortingAlgorithm/InternalSortingAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDsa.iml" filepath="$PROJECT_DIR$/.idea/JavaDsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" filepath="$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze/Maze.iml" filepath="$PROJECT_DIR$/Maze/Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortRecursion/MergeSortRecursion.iml" filepath="$PROJECT_DIR$/MergeSortRecursion/MergeSortRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/PatternQuestions/PatternQuestions.iml" filepath="$PROJECT_DIR$/InsertionSort/PatternQuestions/PatternQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitives/Primitives.iml" filepath="$PROJECT_DIR$/Primitives/Primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUESTIONS/QUESTIONS.iml" filepath="$PROJECT_DIR$/QUESTIONS/QUESTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/Question.iml" filepath="$PROJECT_DIR$/Question/Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsAndConditions/Questions/Questions.iml" filepath="$PROJECT_DIR$/LoopsAndConditions/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSortRecursion.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSortRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion-Permutation/Recursion-Permutation.iml" filepath="$PROJECT_DIR$/Recursion-Permutation/Recursion-Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionArray/RecursionArray.iml" filepath="$PROJECT_DIR$/RecursionArray/RecursionArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionL1/RecursionL1.iml" filepath="$PROJECT_DIR$/RecursionL1/RecursionL1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" filepath="$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/RecursionQues/RecursionQues.iml" filepath="$PROJECT_DIR$/Recursion/RecursionQues/RecursionQues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSortUsingRecursion/SelectionSortUsingRecursion.iml" filepath="$PROJECT_DIR$/SelectionSortUsingRecursion/SelectionSortUsingRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StriverA2Z/StriverA2Z.iml" filepath="$PROJECT_DIR$/StriverA2Z/StriverA2Z.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubSeq/SubSeq.iml" filepath="$PROJECT_DIR$/SubSeq/SubSeq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subset_Subsequence_StringRecursion/Subset_Subsequence_StringRecursion.iml" filepath="$PROJECT_DIR$/Subset_Subsequence_StringRecursion/Subset_Subsequence_StringRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/Tests/Tests.iml" filepath="$PROJECT_DIR$/Question/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typecasting/Typecasting.iml" filepath="$PROJECT_DIR$/Typecasting/Typecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-program/first-program.iml" filepath="$PROJECT_DIR$/first-program/first-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearSearch/linearSearch.iml" filepath="$PROJECT_DIR$/linearSearch/linearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
