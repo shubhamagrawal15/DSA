@@ -1,5 +1,6 @@
 package Access;
 
+/*
 public class ObjectDemo {
 
     int num;
@@ -50,3 +51,6 @@ public class ObjectDemo {
 
     }
 }
+
+
+ */
