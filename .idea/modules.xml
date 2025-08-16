@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/OOP/Introduction/Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaDsa.iml" filepath="$PROJECT_DIR$/.idea/JavaDsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" filepath="$PROJECT_DIR$/LoopsAndConditions/LoopsAndConditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maze/Maze.iml" filepath="$PROJECT_DIR$/Maze/Maze.iml" />
