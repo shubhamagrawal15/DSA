@@ -5,5 +5,6 @@ public class op {
     System.out.println("heelo");
     System.out.println("new");
     System.out.println("help!");
+    System.out.println("tired!");
   }
 }
