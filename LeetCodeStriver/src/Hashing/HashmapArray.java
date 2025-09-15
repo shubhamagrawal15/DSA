@@ -1,9 +1,9 @@
-package HashQuestions;
+package Hashing;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class MajorityElement {
+public class HashmapArray {
     public static void main(String[] args) {
         int[]arr={1,2,3,1,1,1,2,2,2,12};
         int n= arr.length;
