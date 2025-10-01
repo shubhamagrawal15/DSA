@@ -2,6 +2,8 @@ package SortingTechniques;
 
 import java.util.Arrays;
 
+import java.util.*;
+
 public class InsertionOne {
     public static void main(String[] args) {
         int[]arr={5,4,3,2,1};
@@ -21,4 +23,14 @@ public class InsertionOne {
             }
         }
     }
+
+
+//    String [] modified = str.split();
+//    int length=0;
+//    for(int i=0;i<modified.length();i++){
+//        String substring = modified[i];
+//        for (int j = 0; j <substring.length() ; j++) {
+//            if(length<substring.)
+//        }
+//    }
 }

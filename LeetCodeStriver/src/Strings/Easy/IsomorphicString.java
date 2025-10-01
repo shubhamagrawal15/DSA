@@ -19,8 +19,12 @@ public class IsomorphicString {
             System.out.println(c1+"->"+c2);
 
             // checking if they exist or not
-            if(mapST[c1]!=0 && mapST[c1]!=c2) return false;
-            if(mapTS[c2]!=0 && mapTS[c2]!=c1) return false;
+            if(mapST[c1]!=0 && mapST[c1]!=c2){
+                return false;
+            };
+            if(mapTS[c2]!=0 && mapTS[c2]!=c1){
+                return false;
+            }
 
 
             // store maping
