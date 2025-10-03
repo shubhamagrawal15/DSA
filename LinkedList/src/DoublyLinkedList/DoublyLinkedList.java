@@ -1,5 +1,7 @@
 package DoublyLinkedList;
 
+import SinglyLinkedList.SinglyLinkedList;
+
 public class DoublyLinkedList {
 
     private Node head;
@@ -15,21 +17,21 @@ public class DoublyLinkedList {
     }
 
 
-   public void insertFirst(int value){
+    public void insertFirst(int value){
         Node node = new Node(value);
         node.next=head;
         node.prev=null;
-       if(head!=null){
-           head.prev=node;
-       }else {
-           tail=node;
-       }
+        if(head!=null){
+            head.prev=node;
+        }else {
+            tail=node;
+        }
         head=node;
-       size++;
-   }
+        size++;
+    }
 
-   public  void insertLast(int value){
-       Node node = new Node(value);
+    public  void insertLast(int value){
+        Node node = new Node(value);
         if(tail==null){
             head=tail=node;
             node.prev=null;
@@ -39,10 +41,10 @@ public class DoublyLinkedList {
             tail = node;
         }
         size++;
-   }
+    }
 
-   public void insertLastWithoutHead(int value){
-       Node node = new Node(value);
+    public void insertLastWithoutHead(int value){
+        Node node = new Node(value);
         if(head==null){  // empty list
             head=node;
             node.prev=null;
@@ -56,12 +58,12 @@ public class DoublyLinkedList {
             node.prev=temp;
 
         }
-       node.next=null;
+        node.next=null;
         tail= node;
         size++;
-   }
+    }
 
-   public void insert(int value,int index){
+    public void insert(int value,int index){
         if(index==0){
             insertFirst(value);
             return;
@@ -73,33 +75,64 @@ public class DoublyLinkedList {
         }
 
         Node temp=head;
-       for (int i = 1; i <=index-1 ; i++) {
-           temp=temp.next;
-       }
-       Node node = new Node(value,temp.next,temp);
-       temp.next.prev=node;
-       temp.next=node;
-       size++;
-   }
+        for (int i = 1; i <=index-1 ; i++) {
+            temp=temp.next;
+        }
+        Node node = new Node(value,temp.next,temp);
+        temp.next.prev=node;
+        temp.next=node;
+        size++;
+    }
+
+    // find a particular Node that has this value
+    public Node find(int value){
+        Node temp = head;
+        while(temp!=null){
+            if(temp.value==value){
+                return temp;
+            }
+            temp=temp.next;
+        }
+        return null;
+    }
+
+    public void insertAfterNode(int after, int val) {
+        Node p = find(after);
+        if (p == null) {
+            System.out.println("Node " + after + " doesn't exist");
+            return;
+        }
+        Node node = new Node(val);
+        node.next = p.next;
+        node.prev = p;
+        p.next = node;
+        if (node.next != null) {
+            node.next.prev = node;
+        } else {
+            tail = node; // if added at end, update tail
+        }
+        size++;
+    }
 
 
 
-   public void display(){
+
+    public void display(){
         Node temp = head;
         while(temp!=null){
             System.out.print(temp.value+"->");
             temp=temp.next;
         }
-       System.out.println("end");
-   }
-   public void displayReverse(){
+        System.out.println("end");
+    }
+    public void displayReverse(){
         Node temp=tail;
         while(temp!=null){
             System.out.print(temp.value+"<-");
             temp=temp.prev;
         }
-       System.out.println("end");
-   }
+        System.out.println("end");
+    }
 
 
     private  class Node{

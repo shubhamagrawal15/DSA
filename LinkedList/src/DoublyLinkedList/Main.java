@@ -15,6 +15,10 @@ public class Main {
         list.insertLastWithoutHead(8);
         list.insert(2,2);
 
+        list.insertAfterNode(8,9);
+
+
+
         list.display();
         list.displayReverse();
 
